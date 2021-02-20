@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MarcoSantonastasi/MarcoSantonastasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run my own engineering firm and I am an instructor in software engineering.
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- #### marco.santonastasi at gmail dot com
+- #### linkedin.com/in/ MarcoSantonastasi
+- #### github.com/ MarcoSantonastasi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Following is a list of some project that showcase what I like working on:
+
+- #### [github.com](Project One)
+
+- #### [github.com](Project Two)
