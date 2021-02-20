@@ -9,6 +9,6 @@ I run my own engineering firm and I am an instructor in software engineering.
 
 ### 😎 Following is a list of some project that showcase what I like working on:
 
-- #### [https://github.com](Project One)
+- #### [github.com](Project One)
 
-- #### [https://github.com](Project Two)
+- #### [github.com](Project Two)
