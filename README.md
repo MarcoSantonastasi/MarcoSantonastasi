@@ -6,4 +6,3 @@
 - marco.santonastasi at gmail dot com
 - linkedin.com/in/ MarcoSantonastasi
 - github.com/ MarcoSantonastasi
-
