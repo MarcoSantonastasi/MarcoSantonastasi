@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="left">My projects:
-<p>- 🔭 I’m currently working on **AI-generated fully working code snippets**</p>
+<p>- 🔭 I’m currently working on **AI-generated deployable components**</p>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
